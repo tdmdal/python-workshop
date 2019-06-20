@@ -1,0 +1,11 @@
+---
+title: "Rotman Research Node (RRN) Intro"
+---
+
+* [Slides](abc.pdf)
+* Python Notebooks
+    1. Basics (<a href="" download="2_Basics.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github.com/tdmdal/python-workshop/blob/master/docs/2_Basics.ipynb))
+    2. Basics (<a href="" download="2_Basics.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github.com/tdmdal/python-workshop/blob/master/docs/2_Basics.ipynb))
+    3. Basics (<a href="" download="2_Basics.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github.com/tdmdal/python-workshop/blob/master/docs/2_Basics.ipynb))
+
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
