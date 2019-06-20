@@ -7,5 +7,10 @@ title: "Introducing Python"
     1. Basics (<a href="" download="2_Basics.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/2_Basics.ipynb))
     2. Basics (<a href="" download="2_Basics.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/2_Basics.ipynb))
     3. Basics (<a href="" download="2_Basics.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/2_Basics.ipynb))
-
+* Other Resources:   
+    1. [Composing Programs](http://composingprograms.com/)
+    2. [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+    3. [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+    4. [Python Data Science Essential Training](https://www.lynda.com/Python-tutorials/Python-Data-Science-Essential-Training/520233-2.html)
+    
 Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
