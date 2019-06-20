@@ -12,5 +12,8 @@ title: "Introducing Python"
     2. [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
     3. [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
     4. [Python Data Science Essential Training](https://www.lynda.com/Python-tutorials/Python-Data-Science-Essential-Training/520233-2.html)
+    5. [Python Standard Library](https://docs.python.org/3/library/)
+    6. [Numpy User Guide](https://www.numpy.org/devdocs/user/index.html)
+    7. [Pandas](http://pandas.pydata.org/pandas-docs/stable/index.html)
     
 Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
