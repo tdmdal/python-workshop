@@ -1,5 +1,5 @@
 ---
-title: "Rotman Research Node (RRN) Intro"
+title: "Introducing Python"
 ---
 
 * [Slides](abc.pdf)
