@@ -10,8 +10,8 @@ title: "Introducing Python"
 * Other Resources:   
     1. [Composing Programs](http://composingprograms.com/)
     2. [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-    3. [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-    4. [Python Data Science Essential Training](https://www.lynda.com/Python-tutorials/Python-Data-Science-Essential-Training/520233-2.html)
+    3. [Python Style Guide](https://pep8.org/#introduction)
+    4. [Python Data Science Essential Training](http://main.its.utoronto.ca/news/free-access-to-lynda-com-online-courses/) [Free access through Lynda.com for UofT students, staff or faculty members]
     5. [Python Standard Library](https://docs.python.org/3/library/)
     6. [Numpy User Guide](https://www.numpy.org/devdocs/user/index.html)
     7. [Pandas](http://pandas.pydata.org/pandas-docs/stable/index.html)
