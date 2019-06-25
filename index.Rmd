@@ -2,7 +2,7 @@
 title: "Introducing Python"
 ---
 
-* [Slides](Introducing_python.pdf)
+* [Slides](Introducing_Python.pdf)
 * Python Notebooks
     1. Dynamically Typed Language (<a href="" download="1_Dynamically_Typed_Example.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/1_Dynamically_Typed_Example.ipynb))
     2. Webscrapping (<a href="" download="1_Webscraping.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/1_Webscraping.ipynb))
@@ -13,7 +13,7 @@ title: "Introducing Python"
     1. [Composing Programs](http://composingprograms.com/)
     2. [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
     3. [Python Style Guide](https://pep8.org/#introduction)
-    4. [Python Data Science Essential Training](http://main.its.utoronto.ca/news/free-access-to-lynda-com-online-courses/) [Free access through Lynda.com for UofT students, staff or faculty members]
+    4. [Python Data Science Essential Training](https://www.lynda.com/Python-tutorials/Python-Data-Science-Essential-Training/520233-2.html) (login [here](http://main.its.utoronto.ca/news/free-access-to-lynda-com-online-courses/) for UofT free access)
     5. [Python Standard Library](https://docs.python.org/3/library/)
     6. [Numpy User Guide](https://www.numpy.org/devdocs/user/index.html)
     7. [Pandas](http://pandas.pydata.org/pandas-docs/stable/index.html)
