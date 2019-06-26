@@ -4,12 +4,12 @@ title: "Introducing Python"
 
 * [Slides](Introducing_Python.pdf)
 * Python Notebooks
-    1. Dynamically Typed Language (<a href="" download="1_Dynamically_Typed_Example.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/1_Dynamically_Typed_Example.ipynb) )
-    2. Webscrapping (<a href="" download="1_Webscraping.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/1_Webscraping.ipynb) )
+    1. Dynamically Typed Language (<a href="1_Dynamically_Typed_Example.ipynb" download="1_Dynamically_Typed_Example.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/1_Dynamically_Typed_Example.ipynb) )
+    2. Webscrapping (<a href="1_Webscraping.ipynb" download="1_Webscraping.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/1_Webscraping.ipynb) )
     3. Basics (<a href="" download="2_Basics.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/2_Basics.ipynb) )
-    4. NumPy (<a href="" download="3_NumPy.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/3_NumPy.ipynb) )
-    5. Pandas (<a href="" download="3_Pandas.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/3_Pandas.ipynb) )
-    6. Pandas DateTime (<a href="" download="3_Pandas_DateTime.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/3_Pandas_DateTime.ipynb) ) 
+    4. NumPy (<a href="3_NumPy.ipynb" download="3_NumPy.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/3_NumPy.ipynb) )
+    5. Pandas (<a href="3_Pandas.ipynb" download="3_Pandas.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/3_Pandas.ipynb) )
+    6. Pandas DateTime (<a href="3_Pandas_DateTime.ipynb" download="3_Pandas_DateTime.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/3_Pandas_DateTime.ipynb) ) 
 * Other Resources:   
     1. [Composing Programs](http://composingprograms.com/)
     2. [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
