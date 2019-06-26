@@ -11,7 +11,7 @@ title: "Introducing Python"
     5. Pandas (<a href="3_Pandas.ipynb" download="3_Pandas.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/3_Pandas.ipynb) )
     6. Pandas DateTime (<a href="3_Pandas_DateTime.ipynb" download="3_Pandas_DateTime.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/3_Pandas_DateTime.ipynb) )
 * Data 
-    1. [Companies by Revenue](companies_by_revenue.csv) 
+    1. Companies by Revenue (<a href="companies_by_revenue.csv" download="companies_by_revenue.csv">Download) 
 * Other Resources:   
     1. [Composing Programs](http://composingprograms.com/)
     2. [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
