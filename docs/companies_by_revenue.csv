@@ -1,0 +1,51 @@
+Rank,Name,Industry,Revenue,Revenue_Growth,Employees,Country
+1,Walmart,Retail,"$500,343","2,300,000",3.0%,United States
+2,State Grid,Electricity,"$348,903","913,546",10.7%,China
+3,Sinopec,Oil and gas,"$326,953","667,793",22.2%,China
+4,China National Petroleum,Oil and gas,"$326,008","1,636,532",24.2%,China
+5,Royal Dutch Shell,Oil and gas,"$311,870","84,000",29.9%,Netherlands
+6,Toyota,Automotive,"$265,172","369,124",4.1%,Japan
+7,Volkswagen,Automotive,"$260,028","642,292",8.2%,Germany
+8,BP,Oil and gas,"$244,582","74,000",31.1%,United Kingdom
+9,ExxonMobil,Oil and gas,"$244,363","71,200",17.4%,United States
+10,Berkshire Hathaway,Conglomerate,"$242,137","377,000",8.3%,United States
+11,Apple,Electronics,"$229,234","123,000",6.3%,United States
+12,Samsung,Electronics,"$211,940","320,671",21.8%,South Korea
+13,McKesson,Healthcare,"$208,357","68,000",4.9%,United States
+14,Glencore,MiningCommodities,"$205,476","82,681",18.2%,Switzerland
+15,UnitedHealth,Healthcare,"$201,159","260,000",9.3%,United States
+16,Daimler,Automotive,"$185,235","289,321",9.3%,Germany
+17,CVS Health,Healthcare,"$184,765","203,000",4.1%,United States
+18,Amazon,Retail,"$177,866","566,000",30.8%,United States
+19,Exor,Financials,"$161,677","307,637",4.4%,Italy
+20,AT&T,Telecommunications,"$160,546","254,000",2.0%,United States
+21,General Motors,Automotive,"$157,311","180,000",5.5%,United States
+22,Ford,Automotive,"$156,776","202,000",3.3%,United States
+23,China State Construction,Construction,"$156,071","270,467",8.0%,China
+24,Foxconn,Electronics,"$154,699","803,126",14.5%,Taiwan
+25,AmerisourceBergen,Pharmaceuticals,"$153,144","19,500",4.3%,United States
+26,Industrial & Commercial Bank of China,Financials,"$153,021","453,048",3.6%,China
+27,AXA,Financials,"$149,461","95,728",4.0%,France
+28,Total,Oil and gas,"$149,099","98,277",16.6%,France
+29,Ping An Insurance,Financials,"$144,197","342,550",23.7%,China
+30,Honda,Automotive,"$138,646","215,638",7.3%,Japan
+31,China Construction Bank,Financials,"$138,594","370,415",2.6%,China
+32,Trafigura,Commodities,"$136,421","3,935",39.1%,Singapore
+33,Chevron,Oil and gas,"$134,533","51,900",25.1%,United States
+34,Cardinal Health,Pharmaceuticals,"$129,976","40,400",6.9%,United States
+35,Costco,Retail,"$129,025","182,000",8.7%,United States
+36,SAIC Motor,Automotive,"$128,819","148,767",13.1%,China
+37,Verizon,Telecommunications,"$126,034","155,400",0.0%,United States
+38,Allianz,Financials,"$123,532","140,553",1.1%,Germany
+39,Kroger,Retail,"$122,662","449,000",6.4%,United States
+40,Agricultural Bank of China,Financials,"$122,366","491,578",4.3%,China
+41,General Electric,Conglomerate,"$122,274","313,000",3.5%,United States
+42,China Life Insurance,Financials,"$120,224","170,517",14.7%,China
+43,Walgreens Boots Alliance,RetailPharmaceuticals,"$118,214","290,000",0.7%,United States
+44,BNP Paribas,Financials,"$117,375","189,509",7.7%,France
+45,Japan Post Holdings,Conglomerate,"$116,616","245,863",5.2%,Japan
+46,Bank of China,Financials,"$115,423","311,133",1.5%,China
+47,JPMorgan Chase,Financials,"$113,899","252,539",8.0%,United States
+48,Fannie Mae,Financials,"$112,394","7,200",4.9%,United States
+49,Gazprom,Oil and gas,"$111,983","469,600",22.5%,Russia
+50,Prudential,Financials,"$111,458","24,711",14.9%,United Kingdom
