@@ -7,6 +7,7 @@ title: "Introducing Python"
     1. Dynamically Typed Language (<a href="" download="1_Dynamically_Typed_Example.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/1_Dynamically_Typed_Example.ipynb) )
     2. Webscrapping (<a href="" download="1_Webscraping.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/1_Webscraping.ipynb) )
     3. Basics (<a href="" download="2_Basics.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/2_Basics.ipynb) )
+    4. NumPy (<a href="" download="3_NumPy.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/3_NumPy.ipynb) )
     5. Pandas (<a href="" download="3_Pandas.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/3_Pandas.ipynb) )
     6. Pandas DateTime (<a href="" download="3_Pandas_DateTime.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/python-workshop/blob/master/docs/3_Pandas_DateTime.ipynb) ) 
 * Other Resources:   
